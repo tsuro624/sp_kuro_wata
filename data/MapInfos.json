@@ -6,7 +6,7 @@ null,
 {"id":4,"expanded":true,"name":"エンディング","order":9,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":false,"name":"左の部屋　キッチン","order":6,"parentId":1,"scrollX":700.6666666666666,"scrollY":608.6666666666666},
 {"id":6,"expanded":false,"name":"自分の部屋?","order":3,"parentId":1,"scrollX":690,"scrollY":831.3333333333334},
-{"id":7,"expanded":true,"name":"地下の部屋","order":7,"parentId":1,"scrollX":1040.6666666666667,"scrollY":1072.6666666666667},
+{"id":7,"expanded":true,"name":"地下の部屋","order":7,"parentId":1,"scrollX":1152,"scrollY":1296},
 {"id":8,"expanded":true,"name":"オープニング","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":false,"name":"秘密の部屋","order":8,"parentId":7,"scrollX":700.6666666666666,"scrollY":608.6666666666666}
 ]
